@@ -1,0 +1,60 @@
+{
+    "name": "indira-trading",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "@emotion/react": "^11.7.1",
+        "@emotion/styled": "^11.6.0",
+        "@mui/material": "^5.2.6",
+        "@mui/styled-engine-sc": "^5.1.0",
+        "@testing-library/jest-dom": "^5.16.1",
+        "@testing-library/react": "^12.1.2",
+        "@testing-library/user-event": "^13.5.0",
+        "axios": "^0.24.0",
+        "bootstrap": "^5.1.3",
+        "file-saver": "^2.0.5",
+        "highcharts": "^9.3.2",
+        "highcharts-react-official": "^3.1.0",
+        "mdbreact": "^4.8.2",
+        "moment": "^2.29.1",
+        "react": "^17.0.2",
+        "react-bootstrap": "^2.1.0",
+        "react-bootstrap-table": "^4.3.1",
+        "react-data-table-component": "^7.4.6",
+        "react-data-table-component-extensions": "^1.5.2",
+        "react-dom": "^17.0.2",
+        "react-highcharts": "^16.1.0",
+        "react-hook-form": "^7.22.3",
+        "react-router-dom": "^6.2.1",
+        "react-scripts": "5.0.0",
+        "react-time-picker": "^4.4.4",
+        "recharts": "^2.1.8",
+        "styled-components": "^5.3.3",
+        "web-vitals": "^2.1.2",
+        "xlsx": "^0.17.4"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+        "extends": [
+            "react-app",
+            "react-app/jest"
+        ]
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    }
+}

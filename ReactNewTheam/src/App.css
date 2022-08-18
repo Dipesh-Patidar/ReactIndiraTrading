@@ -1,0 +1,155 @@
+.tab-body {
+    width: 500px;
+    margin: 10% auto;
+}
+
+.tablesize {
+    width: 99% !important;
+    margin: 5px !important;
+}
+
+table,
+th,
+td {
+    border: 1px solid #eee;
+    padding: 7px;
+}
+
+th {
+    background-color: #eee;
+    padding: 10px 10px;
+    border: 1px solid #fff;
+}
+
+.back-btn-class {
+    float: right;
+    margin-top: 4px;
+    border: 0px;
+    padding: 10px 30px;
+    background: #000;
+    color: #fff;
+    font-size: 17px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+@media screen and (min-width: 768px) {
+    .justify-content-md-center {
+        justify-content: space-between !important;
+        margin-left: 13px !important;
+    }
+}
+
+
+/* Order Type Time Inpute No-Border */
+
+.no-border .react-time-picker__wrapper {
+    border: none;
+}
+
+.multiscript_btn {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+.multiscript_btn button {
+    margin-right: 10px;
+}
+
+.common_margin {
+    margin-left: 37px;
+}
+
+
+/* OrderType Summary */
+
+.box-design {
+    border: 1px solid #212529;
+    padding: 30px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+.heading-section {
+    background: #000;
+    color: #fff;
+    padding: 8px;
+    margin-bottom: 20px;
+    border-radius: 3px;
+}
+
+.heading-section h3 {
+    font-size: 18px;
+    font-weight: normal;
+    color: #fff;
+    padding-top: 8px;
+}
+
+.order-detials-heading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 15px 0px;
+}
+
+.order-detials-heading input {
+    width: 192px;
+    margin-left: 20px;
+}
+
+.summary-quantity-style {
+    background: #000;
+    margin-bottom: 10px;
+    color: #fff;
+    text-align: center;
+    padding: 4px;
+    font-size: 26px;
+    font-weight: normal;
+}
+
+.paper_class .css-159ulw2-MuiPaper-root {
+    display: flex !important;
+    justify-content: left !important;
+    align-items: center !important;
+    box-shadow: none !important;
+    background: #000 !important;
+    margin-bottom: 25px;
+}
+
+.paper_class .css-iqd1hh-MuiButtonBase-root-MuiChip-root {
+    background: #fff !important;
+}
+
+.paper_class .css-6od3lo-MuiChip-label {
+    margin-top: 4px;
+}
+
+.csv_class {
+    margin-right: 10px;
+}
+
+.stoplosstabel {
+    margin-right: 50px;
+}
+
+.normalordertabel {
+    margin-right: 20px;
+}
+
+.table-style1 td,
+.table-style1 th {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+}
+
+.paid-top
+{
+padding-top: 30px;
+}
+
+ /* Color Show on Cells Option data */
+
+ .cellColor{
+     background-color: rgb(235, 26, 26);
+ }
